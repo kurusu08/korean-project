@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brain-drain.kro.kr/sitemap.xml
